@@ -1,6 +1,6 @@
-public class Main {
+public class MicroserviceApplication  {
 
-	public static void main(String[] args) {
+	public static void MicroserviceApplication(String[] args) {
 	  System.out.println("Hellooo word");
 	}
 }
