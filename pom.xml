@@ -40,7 +40,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>MicroserviceApplication</mainClass>
+            <mainClass>Main</mainClass>
           </manifest>
         </archive>
       </configuration>
